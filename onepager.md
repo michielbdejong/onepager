@@ -22,7 +22,7 @@
 
 * Developing a service platform that makes it both easy for developers to deploy, distribute and sell their web apps, as well as for users to purchase, access, use, and backup them.
 
-A rough overview of that solution can be seen on the working drafts for our teaser pages (that are also just rough sketches, using touchpad-painted concept graphics and quick lists of what we deem important):
+A quick overview of that solution can be seen on the working drafts for our teaser pages (that are also just rough sketches, using trackpad-painted concept graphics and quick lists of what we deem important):
 
 #### Deployment platform
 
