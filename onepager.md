@@ -26,8 +26,8 @@ A rough overview of that solution can be seen on the working drafts for our teas
 
 #### Deployment platform
 
-![Teaser page for deployment platform](http://5apps.github.com/onepager/screenshot_1.png)
+![Teaser page for deployment platform](screenshot_1.png)
 
 #### App Store
 
-![Teaser page for app store](http://5apps.github.com/onepager/screenshot_2.png)
+![Teaser page for app store](screenshot_2.png)
