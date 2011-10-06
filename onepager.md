@@ -34,7 +34,7 @@
 ### For developers
 
 * Write an app once (i.e. use only one codebase and technology set), distribute it to all possible platforms.
-* Don't have any extra work with allowing the user to store the apps data as well as the app itself whereever they choose.
+* Don't have any extra work with allowing the user to store the app's data as well as the app itself whereever they choose.
 
 ### For users
 
