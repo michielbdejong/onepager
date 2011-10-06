@@ -19,7 +19,7 @@
 ### Software
 
 * Even with successful app-store models in place, most vendors are also preparing for the future by developing and adopting countless new and existing web standards to make cross-platform development and distribution feasible in the long run.
-* Everybody is agreeing on the Open Web Platform (meaning HTMl5, JavaScript, and friends) to become at least an equal option for software development.
+* Everybody is agreeing on the Open Web Platform (meaning HTML5, JavaScript, and friends) to become at least an equal option for software development.
 * Development on those standards is going fast, as is adoption. Not only on desktop and mobile, but even on gaming consoles and TVs, with many more devices being in the offing.
 
 ### Data
