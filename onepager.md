@@ -25,7 +25,7 @@
 ### Data
 
 * The shift to web applications, in particular offline web apps that need to store data on the users computer anyway, brings with it an enormous chance to give back control over that data to the users by letting them sync it to whatever storage backend they wish.
-* With Unhosted and their remoteStorage spec, there's a great solution for web app developers to make use of very soon. Giving the user the option to store their data on any compatible storage service will be no more work that developing the offline web app with the localStorage spec itself.
+* With Unhosted and their remoteStorage spec, there's a great solution for web app developers to make use of very soon. Giving the user the option to store their data on any compatible storage service will be no more work than developing the offline web app with the localStorage spec itself.
 * With proper packaging mechanisms in place, the same applies for users' software, which can be either used from or only backed up on those storage backends, too.
 
 
